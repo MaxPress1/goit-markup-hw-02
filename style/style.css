@@ -1,0 +1,42 @@
+body {
+    font-family: "Roboto", "Raleway", sans-serif;
+    color: #2E2F42;
+    background-color: #FCFCFC;
+   font-size: 16px;
+   line-height: 24px;
+   letter-spacing: 0.02em;
+}
+
+a {
+    text-decoration: none;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+}
+
+address {
+    font-style: normal;
+    color: #2E2F42;
+}
+
+ul {
+    list-style-type: none;
+}
+
+h1 {
+    font-size: 56px;
+    font-weight: bold;
+    line-height: 60px;
+}
+
+h2 {
+    font-size: 36px;
+    font-weight: bold;
+}
+
+h3 {
+    font-size: 20px;
+    font-weight: 500;
+}
+
