@@ -5,38 +5,59 @@ body {
    font-size: 16px;
    line-height: 24px;
    letter-spacing: 0.02em;
+   font-weight: 400;
 }
 
 a {
     text-decoration: none;
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 24px;
-    letter-spacing: 0.02em;
-}
-
-address {
-    font-style: normal;
-    color: #2E2F42;
+    
 }
 
 ul {
     list-style-type: none;
 }
 
-h1 {
+.link {
+    font-style: normal;
+    font-size: 12px;
+    line-height: 16px;
+    letter-spacing: 0.04em;
+}
+
+.link:hover {
+    color: #404BBF;
+}
+
+
+
+.page-title {
     font-size: 56px;
     font-weight: bold;
     line-height: 60px;
 }
 
-h2 {
+.section-title {
     font-size: 36px;
     font-weight: bold;
+    
 }
 
-h3 {
+.title {
     font-size: 20px;
     font-weight: 500;
 }
 
+.menu {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+}
+
+.menu:hover {
+    color: #404BBF;
+}
+
+.menu:active {
+    color: #4D5AE5;
+}
