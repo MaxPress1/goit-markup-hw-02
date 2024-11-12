@@ -46,6 +46,11 @@ a {
    color: white;
 }
 
+.button:hover{
+   background-color: #404BBF;
+   color: white;
+}
+
 .section-title {
     font-size: 36px;
     font-weight: bold;
@@ -65,7 +70,8 @@ a {
     font-size: 20px;
     font-weight: 500;
       line-height: 1.2;
-     letter-spacing: 0.02em
+     letter-spacing: 0.02em;
+     color: #2e2f42 ;
 }
 
 .menu {
@@ -83,9 +89,16 @@ a {
     color: #4D5AE5;
 }
 
+.menu:hover {
+    color: #404bbf;
+}
+
+.contacts {
+    font-style: normal;
+}
+
 
 .link {
-    font-style: normal;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
