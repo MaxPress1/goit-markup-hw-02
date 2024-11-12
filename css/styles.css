@@ -1,0 +1,107 @@
+body {
+    font-family: "Roboto", "Raleway", sans-serif;
+    color: #2E2F42;
+    background-color: #FCFCFC;
+   font-size: 16px;
+   line-height: 0.66;
+   letter-spacing: 0.02em;
+   font-weight: 400;
+}
+
+
+ul {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+}
+a:visited {
+ 
+    color: #2E2F42;
+    cursor: pointer;
+}
+.page-title {
+    font-size: 56px;
+    font-weight: bold;
+    line-height: 0.93;
+}
+
+.section-title {
+    font-size: 36px;
+    font-weight: bold;
+    line-height: 0.9;
+    
+}
+
+.title {
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 0.83;
+}
+
+.menu {
+    font-weight: 500;
+  
+}
+
+.menu:hover {
+    color: #404BBF;
+}
+
+.menu:active {
+    color: #4D5AE5;
+}
+
+
+.link {
+    font-style: normal;
+    font-size: 12px;
+    line-height: 0.75;
+    letter-spacing: 0.04em;
+    color: #2E2F42;
+}
+
+.link:active {
+    color: #404BBF;
+}
+
+.logoweb {
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 0.85;
+    letter-spacing: 0.03em;
+    color: #4D5AE5;
+    text-transform: uppercase;
+}
+
+.logostudio {
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 0.85;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+}
+
+.button {
+    font-family: "Roboto", "Raleway", sans-serif;
+    font-size: 16px;
+   line-height: 0.66;
+   letter-spacing: 0.04em;
+   font-weight: 500;
+   background-color: #4D5AE5;
+   color: white;
+   cursor: pointer;
+}
+
+.button:hover {
+    font-family: "Roboto", "Raleway", sans-serif;
+    font-size: 16px;
+   line-height: 0.66;
+   letter-spacing: 0.04em;
+   font-weight: 500;
+   background-color: #404BBF;
+   color: white;
+}
