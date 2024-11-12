@@ -41,12 +41,12 @@ a {
    cursor: pointer;
 }
 
-.button:focus{
+button:focus{
    background-color: #404BBF;
    color: white;
 }
 
-.button:hover{
+button:hover{
    background-color: #404BBF;
    color: white;
 }
@@ -56,8 +56,9 @@ a {
     font-weight: bold;
     line-height: 1.11;
     text-align: center;
-  letter-spacing: 0.02;
+  letter-spacing: 0.02em;
   text-transform: capitalize;
+  color: #2e2f42 ;
 }
 
 .section-content {
